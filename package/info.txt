@@ -1,0 +1,3 @@
+A package can have one more modules which means, a package is collection of modules and packages
+a package can contains packages
+package is nothing but a Directory/Folder
